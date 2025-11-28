@@ -1,9 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sat Nov 22 14:00:27 2025
 
-@author: Ismail
-"""
 
 import numpy as np
 from datetime import datetime
